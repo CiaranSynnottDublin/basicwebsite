@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 test image - ![George](https://github.com/CiaranSynnottDublin/basicwebsite/gh-pages/george.jpg)
 ```
-
+test image - ![George](https://github.com/CiaranSynnottDublin/basicwebsite/gh-pages/george.jpg)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
